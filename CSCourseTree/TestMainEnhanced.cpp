@@ -1,7 +1,7 @@
 ﻿/*
     File: main.cpp
     Author: Braydon Woodward (Updated)
-    Created: [Current Date]
+    Created: [April 4, 2025]
     Description: Performance test program for the Red–Black Tree implementation of the course catalog.
                  Measures loading/insertion, in‑order traversal, and search performance.
 */

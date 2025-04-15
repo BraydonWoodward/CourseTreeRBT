@@ -1,41 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\",
+  "WorkspaceRootPath": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\TestMainEnhanced.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{900982BF-F6F1-4229-8FA0-56B27C3D9AAC}|TestDataGenerator\\TestDataGenerator.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\Course.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{900982BF-F6F1-4229-8FA0-56B27C3D9AAC}|TestDataGenerator\\TestDataGenerator.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{900982BF-F6F1-4229-8FA0-56B27C3D9AAC}|TestDataGenerator\\TestDataGenerator.vcxproj|solutionrelative:TestDataGenerator\\TestDataGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\ABCUCourses.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\TestMainOriginal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\Course.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.43.34808\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A890034B-1876-4080-AFBD-E01153F69667}|CSCourseTree\\CSCourseTree.vcxproj|solutionrelative:CSCourseTree\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,19 +44,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TestMainEnhanced.cpp",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp",
               "RelativeDocumentMoniker": "CSCourseTree\\TestMainEnhanced.cpp",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainEnhanced.cpp",
               "RelativeToolTip": "CSCourseTree\\TestMainEnhanced.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-30T03:03:40.663Z"
+              "WhenOpened": "2025-03-30T03:03:40.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,11 +73,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ABCUCourses.txt",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt",
               "RelativeDocumentMoniker": "CSCourseTree\\ABCUCourses.txt",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\ABCUCourses.txt",
               "RelativeToolTip": "CSCourseTree\\ABCUCourses.txt",
               "ViewState": "AgIAALkHAAAAAAAAAAAAANAHAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -88,45 +88,46 @@
               "DocumentIndex": 8,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt",
-              "RelativeDocumentMoniker": "CSCourseTree\\README.txt",
+              "RelativeDocumentMoniker": "..\\..\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt",
               "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt",
-              "RelativeToolTip": "CSCourseTree\\README.txt",
+              "RelativeToolTip": "..\\..\\Visual Studio\\CSCourseTree\\CSCourseTree\\README.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2023-12-11T01:30:55.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\main.cpp",
               "RelativeDocumentMoniker": "CSCourseTree\\main.cpp",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\main.cpp",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\main.cpp",
               "RelativeToolTip": "CSCourseTree\\main.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2023-12-10T01:33:59.627Z"
+              "WhenOpened": "2023-12-10T01:33:59.627Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Course.cpp",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.cpp",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.cpp",
               "RelativeDocumentMoniker": "CSCourseTree\\Course.cpp",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.cpp",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.cpp",
               "RelativeToolTip": "CSCourseTree\\Course.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2023-12-10T01:29:50.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TestMainOriginal.cpp",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp",
               "RelativeDocumentMoniker": "CSCourseTree\\TestMainOriginal.cpp",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\TestMainOriginal.cpp",
               "RelativeToolTip": "CSCourseTree\\TestMainOriginal.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -134,11 +135,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TestDataGenerator.cpp",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp",
               "RelativeDocumentMoniker": "TestDataGenerator\\TestDataGenerator.cpp",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\TestDataGenerator\\TestDataGenerator.cpp",
               "RelativeToolTip": "TestDataGenerator\\TestDataGenerator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -146,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Course.h",
-              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.h",
+              "DocumentMoniker": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.h",
               "RelativeDocumentMoniker": "CSCourseTree\\Course.h",
-              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\Visual Studio\\CSCourseTree\\CSCourseTree\\Course.h",
+              "ToolTip": "C:\\Users\\bjwoo\\Documents\\CS-300\\VisualStudio\\CSCourseTree\\CSCourseTree\\Course.h",
               "RelativeToolTip": "CSCourseTree\\Course.h",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAG8AAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAG8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2023-12-10T01:20:06.602Z"
+              "WhenOpened": "2023-12-10T01:20:06.602Z",
+              "EditorCaption": ""
             }
           ]
         }
